@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    
+    color: rgb(250, 47, 47);
+}
+div{
+    display: flex;
+    border: solid 5px rgb(0, 0, 0);
+}
+p{
+    font-size: xx-large;
+    text-align: center;
+    color: brown;
+}
+a{
+    width: 100%;
+    display: flex;
+    justify-content: center
+}
+img{
+    border: solid rgb(20, 3, 3);
+    width: fit-content;
+}
